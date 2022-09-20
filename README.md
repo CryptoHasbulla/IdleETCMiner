@@ -1,4 +1,4 @@
-# IdleETCMiner
+# IdleETCMiner - miner Ethereum Classic
 
 **How use Miner?:**
 1) Clone repository or download archive in repository
