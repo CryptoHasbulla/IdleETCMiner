@@ -8,4 +8,4 @@
 5) Check the configuration for validity in the menu **(Main Menu - item 2)*
 6) If the configuration is valid - start mining **(Main Menu - item 1)*
 
-**Password for archive:** mprivate
+**Password for archive:* mprivate
